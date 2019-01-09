@@ -6,6 +6,9 @@ apply plugin: 'kotlin-android-extensions'
 
 apply plugin: 'com.facebook.testing.screenshot'
 
+version = rootProject.ext.version
+group='com.github.skyscanner.backpack-android-demo'
+
 android {
   compileSdkVersion rootProject.ext.compileSdkVersion
   buildToolsVersion rootProject.ext.buildToolsVersion
