@@ -57,7 +57,7 @@
     "merge2": "^1.2.1",
     "node-fetch": "^2.0.0",
     "release-it": "^9.1.0",
-    "replace-in-file": "^3.4.2",
+    "replace-in-file": "^3.4.3",
     "semver": "^5.5.0",
     "svg2vectordrawable": "^2.4.0",
     "through2": "^3.0.0",
